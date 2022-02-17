@@ -1,0 +1,27 @@
+
+body {
+    font: 100% Times New Roman,Verdana, Arial, Helvetica, sans-serif;
+    background: #666666;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #000000;
+}
+#container {        /* set style for id=container */
+    width: 70%;
+    background: #FFFFFF;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    text-align: left;
+}
+#main {             /* set style for id=main */
+    padding: 0 20px;
+}
+.title {
+    font-size: large;
+    font-weight: bold;
+}
+.content {
+    font-size: medium;
+    font-weight: normal;
+}
