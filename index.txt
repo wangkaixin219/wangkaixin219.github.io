@@ -93,7 +93,7 @@
 		    <li>
                         <p> 
                             <b>Kaixin Wang</b>, Kaiqiang Yu, Cheng Long.
-                            "<a href="usage/SIGMOD'24/EBBkC.pdf"></a>",
+                            "<a href="usage/SIGMOD'24/EBBkC.pdf">Efficient k-Clique Listing: An Edge-Oriented Branching Strategy</a>",
                             <i>in ACM Conference on Management of Data</i> (<b>SIGMOD'24</b>).
                             <a href="https://github.com/wangkaixin219/EBBkC" target="_blank">[Code]</a>
                         </p>
